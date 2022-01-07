@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "phpstan/phpstan": "^0.12",
+        "phpstan/phpstan": "^1.0",
         "ext-dom": "*"
     },
     "autoload": {
@@ -20,7 +20,7 @@
     },
     "extra": {
         "branch-alias": {
-          "dev-master": "0.12-dev"
+          "dev-master": "1.0-dev"
         }
       }
 }
